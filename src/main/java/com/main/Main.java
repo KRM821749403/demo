@@ -4,7 +4,9 @@ import java.util.*;
 
 public class Main {
     static HashSet<Character> set;
+
     public static void main(String[] args) {
+        System.out.println("asdasdsadas");
         Scanner sc = new Scanner(System.in);
         int k = Integer.parseInt(sc.nextLine());
         set = new HashSet();
